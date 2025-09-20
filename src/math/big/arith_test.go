@@ -16,7 +16,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ethereum/go-bigmodexpfix/src/internal/testenv"
+	"github.com/Quantaureum/quantaureum-go-bigmodexpfix/src/internal/testenv"
 )
 
 var isRaceBuilder = strings.HasSuffix(testenv.Builder(), "-race")
