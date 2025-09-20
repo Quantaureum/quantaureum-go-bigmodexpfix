@@ -10,7 +10,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/Quantaureum/quantaureum-go-bigmodexpfix/src/internal/diff"
+	"github.com/Quantaureum/quantaureum-quantaureum-go-bigmodexpfix/src/internal/diff"
 )
 
 var generateFlag = flag.Bool("generate", false, "generate files")
