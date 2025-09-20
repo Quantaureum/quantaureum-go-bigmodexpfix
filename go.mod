@@ -1,4 +1,4 @@
-module github.com/Quantaureum/quantaureum-go-bigmodexpfix
+module github.com/Quantaureum/quantaureum-quantaureum-go-bigmodexpfix
 
 go 1.24.0
 
