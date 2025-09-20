@@ -10,7 +10,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/Quantaureum/quantaureum-go-bigmodexpfix/src/internal/byteorder"
+	"github.com/Quantaureum/quantaureum-quantaureum-go-bigmodexpfix/src/internal/byteorder"
 )
 
 // Gob codec version. Permits backward-compatible changes to the encoding.
