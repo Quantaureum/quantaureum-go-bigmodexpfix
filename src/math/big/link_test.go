@@ -11,7 +11,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/Quantaureum/quantaureum-go-bigmodexpfix/src/internal/testenv"
+	"github.com/Quantaureum/quantaureum-quantaureum-go-bigmodexpfix/src/internal/testenv"
 )
 
 // Tests that the linker is able to remove references to Float, Rat,
