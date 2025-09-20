@@ -19,7 +19,7 @@ import (
 	"slices"
 	"sync"
 
-	"github.com/ethereum/go-bigmodexpfix/src/internal/byteorder"
+	"github.com/Quantaureum/quantaureum-go-bigmodexpfix/src/internal/byteorder"
 )
 
 // An unsigned integer x of the form
