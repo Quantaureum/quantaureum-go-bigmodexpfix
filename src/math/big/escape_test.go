@@ -10,7 +10,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Quantaureum/quantaureum-go-bigmodexpfix/src/internal/testenv"
+	"github.com/Quantaureum/quantaureum-quantaureum-go-bigmodexpfix/src/internal/testenv"
 )
 
 func TestEscape(t *testing.T) {
